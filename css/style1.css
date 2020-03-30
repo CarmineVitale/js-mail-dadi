@@ -1,0 +1,62 @@
+.char-1 {
+    color: blue;
+}
+.char-2 {
+    color: green;
+}
+.char-3 {
+    color: black;
+}
+
+.char-4 {
+    color: cyan;
+}
+.char-5 {
+    color: purple;
+}
+.char-6 {
+    color: blue;
+}
+.char-7 {
+    color: green;
+}
+.char-8 {
+    color: black;
+}
+
+.char-9 {
+    color: cyan;
+}
+.char-11 {
+    color: red;
+}
+.char-12 {
+    color: cyan;
+}
+.char-13 {
+    color: purple;
+}
+.char-14 {
+    color: blue;
+}
+.char-15{
+    color: gold;
+}
+.char-16 {
+    color: black;
+}
+
+.char-18 {
+    color: cyan;
+}
+span {
+    font-size: 40px;
+}
+p {
+    color: brown;
+    font-size: 18px;
+}
+h2 {
+    color: chartreuse;
+    font-size: 40px;
+}
