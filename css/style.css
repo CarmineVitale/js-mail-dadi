@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.navbartop {
+    min-height: 80px;
+    background: black;
+    color: yellow;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1 {
+    
+    margin-left: 10px;
+}
+ul {
+    list-style: none;
+}
+li {
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    color: yellow;
+    margin-right: 20px;
+}
+a:hover {
+    color: lightcoral;
+}
+.sfondo {
+    height: calc(100vh - 80px);
+    background-image: url('../img/logo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
